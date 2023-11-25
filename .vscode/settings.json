@@ -1,0 +1,10 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.flashType": "UART",
+  "C_Cpp.default.compilerPath": "${env:IDF_TOOLS_PATH}\\tools\\xtensa-esp32-elf\\esp-12.2.0_20230208\\xtensa-esp32-elf\\bin\\xtensa-esp32-elf-gcc.exe",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "freertos.h": "c",
+    "stdio.h": "c"
+  }
+}
